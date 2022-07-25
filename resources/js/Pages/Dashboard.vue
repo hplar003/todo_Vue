@@ -14,7 +14,7 @@ import '@vuepic/vue-datepicker/dist/main.css'
     <BreezeAuthenticatedLayout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Todo List
+                Go to Todo 
             </h2>
         </template>
 
